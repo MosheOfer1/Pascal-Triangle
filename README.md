@@ -1,4 +1,4 @@
-# Pascal-Triangle-
+# Pascal-Triangle
 An educational program that demonstrates visually the famous Pascal Triangle.
 
 There are options for choosing the module, the colours, the pixel size and the number of lines.
